@@ -1,7 +1,7 @@
 package com.kryzedev.kryzemobs.client.render.entity;
 
 import com.kryzedev.kryzemobs.client.model.entity.ModelHunter;
-import com.kryzedev.kryzemobs.server.entity.glith.EntityHunter;
+import com.kryzedev.kryzemobs.server.entity.Hunter.EntityHunter;
 import com.mojang.blaze3d.matrix.MatrixStack;
 import com.mojang.blaze3d.vertex.IVertexBuilder;
 import net.minecraft.client.renderer.IRenderTypeBuffer;

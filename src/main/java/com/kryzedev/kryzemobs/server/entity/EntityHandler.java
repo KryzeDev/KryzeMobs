@@ -1,7 +1,7 @@
 package com.kryzedev.kryzemobs.server.entity;
 
 import com.kryzedev.kryzemobs.KryzeMobs;
-import com.kryzedev.kryzemobs.server.entity.glith.EntityHunter;
+import com.kryzedev.kryzemobs.server.entity.Hunter.EntityHunter;
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.EntityClassification;
 import net.minecraft.entity.EntityType;

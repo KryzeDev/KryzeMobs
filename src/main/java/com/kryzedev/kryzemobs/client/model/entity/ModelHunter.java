@@ -1,7 +1,7 @@
 package com.kryzedev.kryzemobs.client.model.entity;
 
 import com.kryzedev.kryzemobs.KryzeMobs;
-import com.kryzedev.kryzemobs.server.entity.glith.EntityHunter;
+import com.kryzedev.kryzemobs.server.entity.Hunter.EntityHunter;
 import net.minecraft.util.ResourceLocation;
 import software.bernie.geckolib3.model.AnimatedGeoModel;
 
